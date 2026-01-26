@@ -188,19 +188,25 @@ A key aspect of writing good code is readability: can you and others quickly and
 
 UC Berkeley’s introductory computer science course, [CS61A](https://cs61a.org/articles/composition/), has an excellent composition guide. [PEP 8](https://peps.python.org/pep-0008/) is a standard Python style guide. [Google](https://google.github.io/styleguide/pyguide.html) publishes their internal Python style guide. When in doubt, be consistent and use good judgement.
 
-## Online Resources, Academic Integrity, and Troubleshooting
+## AI Policy
 
-Coders often feel like professional Googlers. Neary endless code snippets are available on sites like [StackOverflow](https://stackoverflow.com/). Generative AIs, like ChatGTP, are increasingly important tools. Human collaboration is also extremely useful for ideation and troubleshooting. This course will give you practice using diverse sources of help while not abusing them. There are both practical and ethical reasons to avoid leaning heavily on code you don’t write yourself. Code ripped from a forum, AI bot, or your too-generous friend, is unlikely to be beautiful, reliable, or efficient. Part of your job is to use resources intelligently, gut-check sources (is ChatGTP doing what I wanted?), customize examples to your purposes, and be a creative and ethical backstop to the availability of sloppy and poorly credited shortcuts.
+Generative AI is a powerful tool that is especially useful for coding. I, therefore, encourage you to learn to use it productively and responsibly as a complement to your own expertise. **You are allowed to use AI tools in any portion of this class, but you are ultimately responsible for the quality of work produced under your name. Please approach AI cautiously. I encourage you to practice transparency about where and how you use it and understand the professional consequences of using it or not.**
 
-Here are my suggestions:
+My personal use of AI is strongly informed by three considerations. I urge you to consider them as well.
 
-- Be a compulsive Googler. Ask ChatGTP what’s wrong with your code. Ask your friends, too. Use these resources to learn and make your coding better, not to avoid learning. If I suspect you have merely copied and pasted code for an exercise, I will call you out on it. If I can’t tell, good on the AI, but bad for your learning as a coder. Why bother taking this class?
-- If you’re in a Googling death spiral and just can’t find an answer, first ask a classmate—there’s a good chance you’ve confronted the same issue—then ask me.
-- You are encouraged to work on exercises with a classmate. You’re even welcome to submit the same code. Just add a comment about who you worked with to the top of your submission.
+1. ***How will my reputation be impacted if my audience knows or suspects I have used AI?***
 
-If you copy and paste a non-trivial amount of code from any source, including a generative AI, you are expected to cite your source. I often paste [StackOverflow](https://stackoverflow.com/) URLs into docstrings for basic functions that I’ve borrowed or adapted from posts, both to show others where I got them, and remind myself in case I want to go back to the source later. If ChatGPT helps you write a code block, make a comment about the tool name query that generated the code. This approach is both practical and ethical.
+In the academic sphere, I believe my reputation would suffer greatly, potentially even making me unemployable, if I was suspected of using AI to produce written works beyond traditional spelling and grammar check. Because of this, I make a point of never using AI for writing, and I also consider whether my own writing could have the appearance of being AI generated due to its style. I want to be trustworthy as a non-AI voice.
 
-Writing that is intended to reflect your voice as an author, including any aspect of an assignment requiring narrative prose, may not be substantively authored by a generative AI. Doing so would require that you declare the AI tool as the author, which would preclude you taking credit for the product. AI tools may be used for planning and editing. This includes refining arguments or research questions, outlining, spelling and grammar assistance, and translation.
+Conversely, I understand there are different professional norms for coding, for which copying between open sources is more well-accepted. Strictly avoiding AI as a coder might be professionally damaging. Whether AI is an asset or a liability has a lot to do with your audience and its professional norms.
+
+2. ***What expertise do I need to use AI effectively?***
+
+A paradox of generative AI is that it may be most valuable when used by someone who is already an expert. Senior coders can use AI to quickly assemble building blocks that might have otherwise been written by more junior colleagues. But who will replace the senior coders if we no longer need junior staff? Without as much compulsory training by doing, it is more important than ever to be diligent about your own professional development, challenging yourself to build the expertise you will need to use AI effectively rather than using it to avoid learning.
+
+3. ***How easily could I detect an error in an AI output and how easily could I fix it?***
+
+I avoid using AI when it would be difficult for me to detect an error or difficult for me to fix it. Of course, the difficulty of detecting and fixing is associated with expertise, so I am less likely to use AI in situations where I am less of an expert. This framework of detectability and fixability for considering the appropriateness of AI applications was developed by Drs. Katie Shilton and Joel Chan of the [Values-Centered AI](https://vcai.umd.edu/) project in the UMD College of Information.
 
 ## Grading
 
